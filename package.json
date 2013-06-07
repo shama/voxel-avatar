@@ -1,0 +1,42 @@
+{
+  "name": "voxel-avatar",
+  "description": "Overlay an image or video on a minecraft skin in voxel.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/shama/voxel-avatar",
+  "keywords": [
+    "voxel", "webrtc", "skin"
+  ],
+  "author": {
+    "name": "Kyle Robinson Young",
+    "email": "kyle@dontkry.com",
+    "url": "http://dontkry.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shama/voxel-avatar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shama/voxel-avatar/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shama/voxel-portal-gun/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "start": "node server.js & ./node_modules/.bin/beefy demo.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "beefy": "~0.3.0",
+    "voxel-engine": "~0.18.1",
+    "voxel-player": "~0.1.0",
+    "minecraft-skin": "~0.1.2",
+    "webrtc.io": "0.0.4",
+    "webrtc.io-client": "git://github.com/webRTC/webrtc.io-client"
+  }
+}
