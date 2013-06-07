@@ -8,9 +8,14 @@ The demo also includes an example WebRTC video chat room. It only requires a
 server to notify peers of each other as well as things like NAT traversal. The
 audio/video is all peer to peer in the web browser.
 
+Here is an example with my son and I video chatting in voxel.js pretending to
+be Max Ogden:
+
+[webrtc](http://i.imgur.com/RnFbfzD.png)
+
 # example
 
-[View this example](http://shama.github.com/voxel-avatar)
+[View this example](http://shama.github.io/voxel-avatar)
 
 ```js
 // Create a game
