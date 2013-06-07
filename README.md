@@ -11,7 +11,7 @@ audio/video is all peer to peer in the web browser.
 Here is an example with my son and I video chatting in voxel.js pretending to
 be Max Ogden:
 
-[webrtc](http://i.imgur.com/RnFbfzD.png)
+[webrtc](https://raw.github.com/shama/voxel-avatar/master/textures/example.png)
 
 # example
 
